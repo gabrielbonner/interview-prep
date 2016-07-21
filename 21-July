@@ -1,0 +1,12 @@
+Technical Thursdays
+21 July, 2016
+
+Set 1:
+Question 1 - What was the most challenging part of your bootcamp experience? How did you overcome it?
+Question 2 - What does HTTP stand for?  What is it?
+Question 3 - Write an algorithm to find the maximum value in a list, for example [14, 90, 13, 88, 43, 71] => 90 (Don't use Ruby magic!  It may only exist in Ruby, but an algorithm can be adapted to any language...)
+
+Set 2:
+Question 1 - What's your favorite app, and why?
+Question 2 - What is a database, and why do web applications use them?
+Question 3 - Write and algorithm to return distinct values from a list including duplicates, for example "1 3 5 3 7 3 1 1 5" => "1 3 5 7" (Try not to use Ruby magic!  It may only exist in Ruby, but an algorithm can be adapted to any language...)
