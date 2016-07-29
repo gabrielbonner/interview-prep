@@ -4,7 +4,7 @@ Daniel has designated Thursdays as 'Technical Thursdays', so with that in mind I
 
 Last tip!  Practicing things once doesn't do much good.  Trying this again tomorrow and once more Saturday or Sunday will really help you internalize the knowledge, otherwise you'll barely be scraping the surface of what you can get from this exercise.  Just a word to the wise.  :)
 
-If you want to share your solution, just post it as a line comment to this repo.
+If you want to share your solution, post it as a comment to the repo in question.
 
 Happy practicing!  :)
 
