@@ -1,0 +1,12 @@
+Technical Thursdays
+4 August, 2016
+
+Set 1:
+Question 1 - How would others describe you?
+Question 2 - What project have you most enjoyed working on so far, and why?
+Question 3 - Write an algorithm to find the first non-repeated character in a string. For example, the first non-repeated character in the string ‘abcdab’ is ‘c’.  (Bonus: After finding a solution, what big O notation is it?)
+
+Set 2:
+Question 1 - What motivates you?
+Question 2 - How would you define Object Oriented Programming?  Can you give an example?
+Question 3 - I'm thinking of a number between 0 and 100. You can guess as many times as you want and I'll tell you if your guess is higher or lower than the number, or if it's correct. What is the maximum number of guesses that you'll need to find it?  (Bonus: After finding a solution, what big O notation is it?)
