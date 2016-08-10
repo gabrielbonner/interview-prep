@@ -1,0 +1,17 @@
+Technical Thursdays
+11 August, 2016
+
+Set 1:
+Question 1 - What's your favorite language to code in, and why?
+Question 2 - What is an anonymous function? Can you give an example of one?
+Question 3 - Given the following list of numbers: [1, 2, 3, 4, 5]
+              ...write a function that will sum the numbers present in the list.
+              ...write a function that will sum only the odd numbers present in the list.
+              ...write a function that will sum only the highest and lowest numbers present in the list.
+              ...write a function that utilizes recursion to sum the numbers present in the list.
+
+Set 2:
+Question 1 - What industry sites and blogs do you read regularly?
+Question 2 - What is the value of the following code?
+              "I speak 17 langugaes".split("").reverse().join("");
+Question 3 - You are tasked with designing software that runs 2 elevators in a 10-story buidling.  What classes and variables will you need?
