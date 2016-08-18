@@ -1,0 +1,17 @@
+Technical Thursdays
+17 August, 2016
+
+Set 1:
+Question 1 - Apart from your technical skill, what other beneficial aspects will you bring to this company?
+Question 2 - Given three tables, 'users', 'dogs' and 'cats', how would you add ownership information to the dogs and cats?
+Question 3 - Some positive integers n have the property that the sum [ n + reverse(n) ] consists entirely of odd (decimal)
+             digits. For instance, 36 + 63 = 99 and 409 + 904 = 1313. We will call such numbers 'reversible'; so 36, 63, 409
+             and 904 are reversible. Leading zeroes are not allowed in either n or reverse(n).
+             
+             Write a function to find the number of 'reversible' numbers below 1000.
+             
+Set 2:
+Question 1 - On a scale from 1 to 10, how would you rate yourself as a programmer?
+Question 2 - What is SASS, and what would I want to use it?
+Question 3 - Write a function that makes change for 'n' cents using the fewest coins possible.  Available coins are
+             quarters, dimes, nickels, and pennies.
