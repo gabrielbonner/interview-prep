@@ -2,11 +2,18 @@ Technical Thursdays
 25 August, 2016
 
 Set 1:
-Question 1 - 
-Question 2 - 
-Question 3 - 
+Question 1 - What kind of salary do you need to earn?
+Question 2 - What is a recursive function, and how does it differ from an iterative function?
+Question 3 - Given two arrays of US social security numbers: Arr1 and Arr2 of lengths n and m respectively, how can you
+             most efficiently compute an array of all numbers included in both arrays?
              
+             Example:
+             arr1 = [123_45_234, 133_42_232, 908_32_3524] and arr2 = [123_45_234, 567_30_983, 908_32_3524].  The function
+             should return [123_45_234, 908_32_3524].
+             
+             Big hint - the arrays are sorted!
+  
 Set 2:
-Question 1 - 
-Question 2 - 
-Question 3 - 
+Question 1 - Give me a 30 second elevator pitch for why we should hire you.
+Question 2 - What are the most important skills and qualities that a Jr. developer should have?
+Question 3 - Assuming that you have a linked list with an odd number of nodes, write a function that returns the middle node.
