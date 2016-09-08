@@ -1,0 +1,12 @@
+Technical Thursdays
+8 September, 2016
+
+Set 1:
+Question 1 - What kind of culture do you want in your workplace?
+Question 2 - What is an API and what is it used for?
+Question 3 - Write a function that given a list of non negative integers, arranges them such that they form the largest possible number. For example, given [50, 2, 1, 9], the largest formed number is 95021.
+
+Set 2:
+Question 1 - What has been your biggest challenge in life so far?
+Question 2 - What are local, class, and global variables, and how do they differ from one another?
+Question 3 - Write a function that combines two lists by alternatingly taking elements. For example: given the two lists [a, b, c] and [1, 2, 3], the function should return [a, 1, b, 2, c, 3].
