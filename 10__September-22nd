@@ -1,0 +1,12 @@
+Technical Thursdays
+22 September, 2016
+
+Set 1:
+Question 1 - How can you recognize a good programmer?
+Question 2 - What does `a ||= b` mean in Ruby, and could you give an example of when you might use this structure?
+Question 3 - Write a function that finds the largest palindrome in a string. All characters can be valid for the palindrome, including whitespace. In the string "I am a red racecar driver" - the largest palindrome would be "d racecar d".
+
+Set 2:
+Question 1 - How important is salary to you?
+Question 2 - What is meant by 'skinny controllers, fat models', and do you agree with that saying?
+Question 3 - Given a number, find the closest integer that is a palindrome. For example closest_palindrome(125) => 121
