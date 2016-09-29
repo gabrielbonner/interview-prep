@@ -1,0 +1,15 @@
+Technical Thursdays
+29 September, 2016
+
+Set 1:
+Question 1 - What role do you usually take on a team?
+Question 2 - How are a linked list and an array different?
+Question 3 - Implement a function that returns all the numbers from an array of integers that add up to 20.  For example:
+array = [2, 3, 7, 10, 5, 18]
+sum_to_20(array)
+=> 3+7+10, 2+3+5+10, 2+18
+
+Set 2:
+Question 1 - What things to you like to do in your free time?  (Hint: Remember, this is a job interview, pick a thing/things that reflect why you would be a good fit for the position.)
+Question 2 - Do you think it is important to write comments in your code?  Why/why not?
+Question 3 - An array of integers holds the numbers 1-100, but one number is missing.  Write a function to find it.
