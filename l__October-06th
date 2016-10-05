@@ -1,0 +1,12 @@
+Technical Thursdays
+6 October, 2016
+
+Set 1:
+Question 1 - What sort of people do you find it difficult to get along with?
+Question 2 - Quick!  Throw out three tech acronyms and a short definition. (For example "SEO, or search engine optimization are tools and techniques to boost your ranking in search results in order to get more traffic.")
+Question 3 - Write a function that takes an array of integers and returns the sum of the integers after adding 1 to each.  For example, plusOneSum([1, 2, 3, 4]);  // 14
+
+Set 2:
+Question 1 - What is your least favorite tech product?  What could be done to improve it?
+Question 2 - What is UI?  Why is it important? 
+Question 3 - Given a sorted array of unknown length and a number to search for, return the index of the number in the array. If the input number is either lower than the lowest number or higher than the highest number in the array, throw an exception. If the number occurs multiple times, return the index of any occurrence. If it isn’t present, return -1.
