@@ -1,0 +1,12 @@
+Technical Thursdays
+13 October, 2016
+
+Set 1:
+Question 1 - Apart from your programming abilities, what skills and experiences have you picked up that will help you succeed in this job?
+Question 2 - Tell me a little bit about how HTML, CSS, and Javascript can interact on a webpage.
+Question 3 - In an array of positive integers, one element occurs an odd number of times and all others have an even number of occurrences. Write a function that returns the element with an odd number of occurrences.  For example, [1, 1, 3, 3, 2, 9, 10, 9, 1, 2, 2, 2, 9, 1, 10] #=> 9
+
+Set 2:
+Question 1 - Do you have any questions for me?  What do you want to know about your potential role in this company?
+Question 2 - What is the difference between synchronous and asynchronous?  What do you have to watch out for with asynchronous functions? 
+Question 3 - Write out a binary search function.  (If they need additional info: A binary search is an efficient way to locate something in a sorted list.  For example, trying to guess a random number in a sorted array of integers between 1 and 100, where after every guess you get feedback if the number you guessed is higher or lower than the selected random number.)
