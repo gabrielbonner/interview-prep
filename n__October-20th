@@ -1,0 +1,48 @@
+Technical Thursdays
+20 October, 2016
+
+Set 1:
+Question 1 - What skills are you currently lacking that would make you a better programmer?
+Question 2 - What does the 'bang' (!) do in Ruby, and can you give some situations when you would or would not use it?
+Question 3 - Time to debug!  :)
+
+The following code is outputting an array with the numbers 0 through 9, but we just want the even numbers.  What's gone wrong?
+
+var evenNumbers = []
+var findEvenNumbers = function (i) {
+  if (i % 2 === 0)
+    console.log(i, 'is an even number, adding to array!');
+    evenNumbers.push(i);
+}
+
+for (var i = 0; i < 10; i++) {
+  findEvenNumbers(i);
+}
+
+console.log(evenNumbers);
+// outputs:
+// 0 "is an even number, adding to array!"
+// 2 "is an even number, adding to array!"
+// 4 "is an even number, adding to array!"
+// 6 "is an even number, adding to array!"
+// 8 "is an even number, adding to array!"
+// [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+Set 2:
+Question 1 - How would you deal with a difficult co-worker?  Imagine that they tease you because you came from a coding bootcamp and don't have a CS degree, and they often say demeaning things about bootcamps to other people and in front of you.
+Question 2 - What is the difference between 'git pull', versus 'git fetch' + 'git merge'?
+Question 3 - Time to debug!  :)
+
+The following code is outputting '0', but if 4*4=16 and 2*2=4 then the result should be 12.  Can you fix it?
+
+var square = function (number) {
+  result = number * number;
+  return result;
+}
+
+result = square(4);
+result2 = square(2);
+difference = result - result2;
+
+console.log(difference);
+// 0
