@@ -1,0 +1,14 @@
+Technical Thursdays
+27 October, 2016
+
+Set 1:
+Question 1 - What sort of people do you like to collaborate with?  Are you a good collaborator?
+Question 2 - What books about coding have you read?  What are some general or specific things that you learned from them?
+Question 3 - Given a positive integer, find the next higher number using only the digits in the given number. For example, if the given number is '1234', the next highest number with the same digits is '1243'. Each digit can only be used once, so '1241' would not be valid since the '1' appears only once in the given number, but twice in the answer.
+
+Set 2:
+Question 1 - Tell me a little about your background before you decided to become a programmer.  What led you to this decision?
+Question 2 - If you could go back in time to just before you started learning to code, what useful advice could you give yourself?
+Question 3 - Given an amount of money as a float or integer, format it as a string.
+  formatMoney(2310000.159897); // '$2,310,000.16'
+  formatMoney(1600); // '$1,600.00'
