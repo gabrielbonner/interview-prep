@@ -1,0 +1,12 @@
+Technical Thursdays
+18 November, 2016
+
+Set 1:
+Question 1 - What would you do if senior management demanded delivery of software in an impossible deadline?
+Question 2 - What's an up-and-coming technology/framework/library/etc. that you're excited about, and what interests you about it?
+Question 3 - Write a basic grammar-checking method that returns true if the input string starts with an uppercase letter, ends with an acceptable punctuation mark ('.', '?', or '!'), and any commas, colons, and semi-colons (',', ':', ';') have no space before them and a space after them.
+
+Set 2:
+Question 1 - "The best way to learn anything is to experience it at increasingly complex levels over time."  Do you agree or disagree?  Why?
+Question 2 - Explain big O notation to me and why it's useful.  Assume I've never heard of it before.
+Question 3 - Imagine you had 5,623 participants in a tournament.  How many games would need to be played to determine the winner?  Assuming that each game takes 5 minutes and there is one minute between games, how much time would it take to find the winner?  Now write a function that takes an interger (number of participants) and returns an array with the number of games needed to find the winner, and the number of minutes it will take.
