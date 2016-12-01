@@ -1,0 +1,12 @@
+Technical Thursdays
+25 November, 2016
+
+Set 1:
+Question 1 - Do you have any routines or habits that you use before/while coding?
+Question 2 - What is ES6?  Can you list any of the new features in ES6?
+Question 3 - The number of divisors of 120 is 16.  In fact 120 is the smallest number having 16 divisors.  Wite a function to find the next smallest number with exactly 16 divisors.
+
+Set 2:
+Question 1 - Do you currently have a mentor?  Are you interested in fiding one?  Why/Why not?
+Question 2 - What are some benefits of using Object Oriented Programming?
+Question 3 - A positive integer n is called 'squarefree', if no square of a prime divides n, thus 1, 2, 3, 5, 6, 7, 10, 11 are squarefree, but not 4, 8, 9, 12.  Write a function to find how many squarefree numbers there are below 1000.
