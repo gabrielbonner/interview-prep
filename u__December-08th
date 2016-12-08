@@ -1,0 +1,15 @@
+Technical Thursdays
+08 December, 2016
+
+Set 1:
+Question 1 - Do you have friends or damily that work in tech?  Are they happy with their career?
+Question 2 - What are some technologies that back-end engineers work with?  Which of them have you used?
+Question 3 - Implement a stack from scratch.  Make sure to include the methods push(), pop(), peek(), isFull(), and isEmpty().
+
+Set 2:
+Question 1 - If a friend asked you if they should look into a web development career, what would you tell them?
+Question 2 - Why do you think React is so popular right now?
+Question 3 - Write a function that returns the longest word(s) from a sentence. The function should not return any duplicate words (case-insensitive). For example:
+    longestWords("You are just an old antidisestablishmentarian") // ["antidisestablishmentarian"]
+    longestWords("I gave a present to my parents") // ["present", "parents"]
+    longestWords("Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo") // ["buffalo"] or ["Buffalo"]
