@@ -2,11 +2,13 @@ Technical Thursdays
 15 December, 2016
 
 Set 1:
-Question 1 - 
-Question 2 - 
-Question 3 - 
+Question 1 - How long do you like to work on a problem before you ask for help?
+Question 2 - What new feature would you like to see in your favorite app?  How would you implement it?
+Question 3 - Write a function that mimics the back/forward buttons on your browser by keeping a list of the websites that you've visited.  Be sure to include the methods back() and forward().
 
 Set 2:
-Question 1 - 
-Question 2 - 
-Question 3 - 
+Question 1 - Are you a morning person?  At what time of the day do you do your best work?
+Question 2 - Do you currently have any IoT devices in your home?  What do you use them for?  If not, would you like to have some?
+Question 3 - Implement a sorting function of your choice, it should take an unsorted array of integers from 1 to 10.
+  For example:
+    f([2, 6, 9, 8, 10, 9, 3, 4, 1, 7])  // [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
