@@ -1,0 +1,17 @@
+Technical Thursdays
+22 December, 2016
+
+Set 1:
+Question 1 - If you could work for any company, which one would you choose?
+Question 2 - What are some of the primary responibilities of a web designer?
+Question 3 - Write a function that outputs all permutations of a given string.
+  For example:
+    f(‘LSE’)  // [‘LSE’, ‘SLE’, ‘SEL’, ‘LES’, ‘ELS’, ‘ESL’]
+
+Set 2:
+Question 1 - How are your command line skills?  Do you think using the command line is importatnt?
+Question 2 - What is your current tech stack of choice?  Can you name any benefits it has over other stacks?
+Question 3 - Create a string interpolation function that accepts an input string and a number of arguments to replace positions in the input string.
+  For example:
+    f('Hello ${0} ${1}', 'Mr.', 'Bonner')  // => 'Hello Mr. Bonner'
+    f('${1}_${0}', 'first', 'second')      // => 'second_first'
