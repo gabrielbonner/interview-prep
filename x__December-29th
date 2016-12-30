@@ -2,13 +2,15 @@ Technical Thursdays
 29 December, 2016
 
 Set 1:
-Question 1 - 
-Question 2 - 
-Question 3 - Factorial of any number n is defined as the multiplication of numbers from one to the given number, n! = 1 x 2 x 3 x 4 x ........ x n.  Write a function to return the factorial of the argument.
-  For example:
-    f(10)  // 3628800
+Question 1 - What are your thoughts on pair programming?  What are its benefits and weaknesses?
+Question 2 - What kinds of scaling issues do you think Facebook has to deal with?
+Question 3 - Factorial of any number n is defined as the multiplication of numbers from one to the given number,
+    n! = 1 x 2 x 3 x 4 x ........ x n.  Write a function to return the factorial of the argument.
+      For example:
+        f(10)  // 3628800
 
 Set 2:
-Question 1 - 
-Question 2 - 
-Question 3 - There is an array of non-negative integers. A second array is formed by shuffling the elements of the first array and deleting a random element. Given these two arrays, find which element is missing in the second array.
+Question 1 - What is your ideal work schedule (e.g. Mon-Fri, 9-5), and why?
+Question 2 - What is jQuery?  What do people use it for?  Can you give any reasons why isn't it as popular as it used to be?
+Question 3 - There is an array of non-negative integers. A second array is formed by shuffling the elements of the
+    first array and deleting a random element. Given these two arrays, find which element is missing in the second array.
