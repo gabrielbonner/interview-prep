@@ -1,0 +1,23 @@
+Technical Thursdays
+5 January, 2016
+
+
+Set 1:
+Question 1 - 
+Question 2 - What do you know about machine learning?  Can you give any examples of where it is used?
+Question 3 - You are a professional robber planning to rob houses along a street. Each house has a certain amount of money
+    stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security system connected
+    and it will automatically contact the police if two adjacent houses were broken into on the same night.
+
+    Given a list of non-negative integers representing the amount of money of each house, write a function to determine the
+    maximum amount of money you can rob tonight without alerting the police.
+    
+    For example:
+    f([50, 1, 1, 1])  // 51
+    f([50, 50, 1, 1])  // 51
+    f([50, 1, 1, 50]) // 100
+
+Set 2:
+Question 1 - 
+Question 2 - What is a float in CSS?  What are the advantages and disadvantages to using them?
+Question 3 -
