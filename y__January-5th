@@ -3,8 +3,9 @@ Technical Thursdays
 
 
 Set 1:
-Question 1 - 
-Question 2 - What do you know about machine learning?  Can you give any examples of where it is used?
+Question 1 - We've realized that we won't need a full time person until next month.  Are you interested in doing an internship
+    here for the next month at $20 per hour and the possibility for a full time position after a month?
+Question 2 - What do you know about machine learning?  Can you give any examples of where it might be used?
 Question 3 - You are a professional robber planning to rob houses along a street. Each house has a certain amount of money
     stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security system connected
     and it will automatically contact the police if two adjacent houses were broken into on the same night.
@@ -13,11 +14,15 @@ Question 3 - You are a professional robber planning to rob houses along a street
     maximum amount of money you can rob tonight without alerting the police.
     
     For example:
-    f([50, 1, 1, 1])  // 51
-    f([50, 50, 1, 1])  // 51
-    f([50, 1, 1, 50]) // 100
+        f([50, 1, 1, 1])  // 51
+        f([50, 50, 1, 1])  // 51
+        f([50, 1, 1, 50])  // 100
 
 Set 2:
-Question 1 - 
-Question 2 - What is a float in CSS?  What are the advantages and disadvantages to using them?
-Question 3 -
+Question 1 - Do you have much expereince working with people with Asperger's?  We have several of them at the office.  Do you
+    think it would be an issue for you?
+Question 2 - What is a float in CSS?  What are the advantages/disadvantages to using them?
+Question 3 - Write a function that returns the largest product yielded from three of the integers in an array.
+
+    For example:
+        f([-10, 7, 29, 30, 5, -10, -70])  // 21000
