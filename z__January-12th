@@ -1,0 +1,22 @@
+Well, 26 installments/6 months later, we've finally arrived at 'z'.  This will be my last entry as far as set of questions
+go, but perhaps I will open a 'Solutions' folder at some point.  Best of luck with your preparations, and your interviews.
+
+Set 1:
+Question 1 - Tell me a little about about a problem that you couldn't solve.  It can be tech-related, or not.  How did you 
+    conclude that you couldn't solve it?  What did you do after that?
+Question 2 - What kinds of classes and functions would you use to code a model of a vending machine?
+Question 3 - Given a string 's' and a dictionary of words 'dict', determine if s can be segmented into a space-separated
+    sequence of one or more dictionary words.  Return true is so, and false otherwise.
+        For example:
+            s = "practicemakespermanent",
+            dict = ["makes", "permanent", "practice"].
+            f(s)  // true            
+
+Set 2:
+Question 1 - 
+Question 2 - Tell me how you would write a function to remove all the swear words from a text.  Imagine that the source
+    material is a 400 page book.
+Question 3 - You are climbing a stair case. It takes n steps to reach to the top.  Each time you can either climb 1 or 2
+    steps. In how many distinct ways can you climb to the top?
+        For example :
+            f(3)  // 3, because there are three ways to climb to the top, [1 1 1], [1 2], [2 1]
